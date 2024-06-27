@@ -1,0 +1,252 @@
+{
+  "responsibles": [
+    {
+      "id": 1,
+      "name": "Алексей Иванов",
+      "position": "Менеджер проектов"
+    },
+    {
+      "id": 2,
+      "name": "Мария Смирнова",
+      "position": "Руководитель отдела"
+    },
+    {
+      "id": 3,
+      "name": "Иван Петров",
+      "position": "Ведущий разработчик"
+    },
+    {
+      "id": 4,
+      "name": "Ольга Сидорова",
+      "position": "Аналитик"
+    },
+    {
+      "id": 5,
+      "name": "Дмитрий Захаров",
+      "position": "Руководитель проектов"
+    },
+    {
+      "id": 6,
+      "name": "Екатерина Кузьмина",
+      "position": "Старший менеджер"
+    }
+  ],
+  "participants": [
+    {
+      "id": 101,
+      "name": "Сергей Кузнецов",
+      "position": "Разработчик",
+      "responsibleId": 1
+    },
+    {
+      "id": 102,
+      "name": "Ирина Павлова",
+      "position": "Тестировщик",
+      "responsibleId": 1
+    },
+    {
+      "id": 103,
+      "name": "Александр Иванов",
+      "position": "Бизнес-аналитик",
+      "responsibleId": 1
+    },
+    {
+      "id": 104,
+      "name": "Татьяна Петрова",
+      "position": "UI/UX дизайнер",
+      "responsibleId": 1
+    },
+    {
+      "id": 105,
+      "name": "Евгений Крылов",
+      "position": "DevOps инженер",
+      "responsibleId": 1
+    },
+    {
+      "id": 106,
+      "name": "Мария Васильева",
+      "position": "Системный администратор",
+      "responsibleId": 1
+    },
+    {
+      "id": 107,
+      "name": "Николай Соколов",
+      "position": "Аналитик",
+      "responsibleId": 2
+    },
+    {
+      "id": 108,
+      "name": "Елена Воронова",
+      "position": "Дизайнер",
+      "responsibleId": 2
+    },
+    {
+      "id": 109,
+      "name": "Андрей Громов",
+      "position": "Тестировщик",
+      "responsibleId": 2
+    },
+    {
+      "id": 110,
+      "name": "Анна Сидорова",
+      "position": "HR-специалист",
+      "responsibleId": 2
+    },
+    {
+      "id": 111,
+      "name": "Павел Морозов",
+      "position": "Маркетолог",
+      "responsibleId": 2
+    },
+    {
+      "id": 112,
+      "name": "Игорь Власов",
+      "position": "SEO специалист",
+      "responsibleId": 2
+    },
+    {
+      "id": 113,
+      "name": "Олег Борисов",
+      "position": "Инженер",
+      "responsibleId": 3
+    },
+    {
+      "id": 114,
+      "name": "Анна Фролова",
+      "position": "Технический писатель",
+      "responsibleId": 3
+    },
+    {
+      "id": 115,
+      "name": "Виктория Ковалева",
+      "position": "Системный аналитик",
+      "responsibleId": 3
+    },
+    {
+      "id": 116,
+      "name": "Максим Смирнов",
+      "position": "Backend-разработчик",
+      "responsibleId": 3
+    },
+    {
+      "id": 117,
+      "name": "Юлия Романова",
+      "position": "Frontend-разработчик",
+      "responsibleId": 3
+    },
+    {
+      "id": 118,
+      "name": "Иван Сидоров",
+      "position": "Менеджер по продукту",
+      "responsibleId": 3
+    },
+    {
+      "id": 119,
+      "name": "Петр Захаров",
+      "position": "Маркетолог",
+      "responsibleId": 4
+    },
+    {
+      "id": 120,
+      "name": "Юлия Семенова",
+      "position": "PR-специалист",
+      "responsibleId": 4
+    },
+    {
+      "id": 121,
+      "name": "Светлана Медведева",
+      "position": "Копирайтер",
+      "responsibleId": 4
+    },
+    {
+      "id": 122,
+      "name": "Денис Орлов",
+      "position": "SMM-менеджер",
+      "responsibleId": 4
+    },
+    {
+      "id": 123,
+      "name": "Наталья Кузнецова",
+      "position": "Бренд-менеджер",
+      "responsibleId": 4
+    },
+    {
+      "id": 124,
+      "name": "Григорий Козлов",
+      "position": "Рекламный менеджер",
+      "responsibleId": 4
+    },
+    {
+      "id": 125,
+      "name": "Алексей Михайлов",
+      "position": "Бизнес-аналитик",
+      "responsibleId": 5
+    },
+    {
+      "id": 126,
+      "name": "Марина Петрова",
+      "position": "Финансовый аналитик",
+      "responsibleId": 5
+    },
+    {
+      "id": 127,
+      "name": "Владимир Волков",
+      "position": "Разработчик",
+      "responsibleId": 5
+    },
+    {
+      "id": 128,
+      "name": "Алена Алексеева",
+      "position": "Тестировщик",
+      "responsibleId": 5
+    },
+    {
+      "id": 129,
+      "name": "Галина Кузнецова",
+      "position": "Контент-менеджер",
+      "responsibleId": 5
+    },
+    {
+      "id": 130,
+      "name": "Михаил Захаров",
+      "position": "SEO специалист",
+      "responsibleId": 5
+    },
+    {
+      "id": 131,
+      "name": "Дмитрий Кузьмин",
+      "position": "Разработчик",
+      "responsibleId": 6
+    },
+    {
+      "id": 132,
+      "name": "Оксана Федорова",
+      "position": "Тестировщик",
+      "responsibleId": 6
+    },
+    {
+      "id": 133,
+      "name": "Илья Чернов",
+      "position": "Аналитик",
+      "responsibleId": 6
+    },
+    {
+      "id": 134,
+      "name": "Анастасия Морозова",
+      "position": "HR-специалист",
+      "responsibleId": 6
+    },
+    {
+      "id": 135,
+      "name": "Константин Соколов",
+      "position": "PR-специалист",
+      "responsibleId": 6
+    },
+    {
+      "id": 136,
+      "name": "Надежда Новикова",
+      "position": "Маркетолог",
+      "responsibleId": 6
+    }
+  ]
+}
